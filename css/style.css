@@ -1,0 +1,19 @@
+/*Created by: Ryan Palatty
+*Created on: Sep 11,2024
+*This CSS file defines the style for index.html
+*/
+
+body  {
+  background-color:powderblue;
+}
+
+h1 {
+    background-color: rgb(205, 117, 23);
+    color: hsl(147, 70%, 27%);
+    padding: 40px;
+    text-align: left;
+  }
+
+p {
+  background-color:#891d89;
+}
